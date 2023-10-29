@@ -1,4 +1,4 @@
-# Pagina de aluguel de carros utilizando Next.js e Typescript
+# Aplicação de viagens utilizando Next.js | Typescript | React | Tailwind CSS
 
 ## Tecnologias:
 
@@ -6,6 +6,7 @@
 - [Next.js](https://nextjs.org)
 - [Typescript](https://https://www.typescriptlang.org)
 - [Styled Components](https://styled-components.com)
+- [TailwindCSS](https://tailwindcss.com)
   
 
 
@@ -15,14 +16,7 @@
 ```
 npm install
 ```
-O comando irá instalar todas as dependências listadas no package.json.
-
-## Desenvolvimento:
-Basta executar, apenas um comando no diretório raiz deste projeto.
-
-```
-npm run dev
-```
+O comando irá instalar todas as dependências.
 
 ## Construção: (Build)
 Construa os arquivos estáticos com o comando build:
@@ -34,7 +28,7 @@ npm run build
 Após a construção do projeto, é possível executá-lo localmente usando o seguinte comando:
 
 ```
-npm start
+npm run dev
 ```
 
 Para acessar o projeto acesse-o através do seguinte link http://localhost:3000
